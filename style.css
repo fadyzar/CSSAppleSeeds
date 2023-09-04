@@ -1,0 +1,25 @@
+
+
+.pic{
+  margin-top: 1%;
+}
+
+.flex-parent-element {
+  margin-left: 24%;
+ display: flex;
+ width: 27%;
+}
+
+.flex-child-element {
+ flex: 1;
+ border: 1px solid (0,0,0,0);
+ margin: 15px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+#nav{
+  margin-left: 20%;
+}
