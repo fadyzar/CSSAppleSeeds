@@ -1,0 +1,55 @@
+.dad{
+  margin: 200px;
+  border: 5px solid gray;
+
+padding: 5px;
+}
+
+
+.header{
+  background-color: orange;
+  padding: 5px;
+
+  width: 70%;
+  margin-left: 90px;
+}
+
+.float-parent-element {
+    width: 50%;
+}
+.float-child-element {
+    float: left;
+    width: 50%;
+}
+.side{
+    background-color:  #6B8E23;
+    padding: 5px;
+    float: left;
+    width: 200px;
+    margin-left: 90px;
+    height: 150px;
+      margin-top: 5px;
+}
+.main{
+  padding: 5px;
+height: 150px;
+  width: 380px;
+  margin-left: 90px;
+    background-color: #663399;
+    margin-top: 5px;
+}
+
+
+
+.footer{
+background-color: blue;
+padding: 5px;
+margin-top: 170px;
+width: 70%;
+margin-left: 90px;
+
+}
+
+p{
+  margin-left: 50%;
+}
