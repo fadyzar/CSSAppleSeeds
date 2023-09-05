@@ -23,3 +23,24 @@ img {
 #nav{
   margin-left: 20%;
 }
+
+body{
+ background-image: url("https://s3.envato.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg");
+ background-size: 100%;
+}
+
+p{
+  color:green;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+h2, h3{
+  color: gray;
+  font-family: sans-serif;
+}
+
+a{
+  color: gray;
+}
