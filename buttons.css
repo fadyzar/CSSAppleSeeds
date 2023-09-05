@@ -1,0 +1,95 @@
+
+body{
+  background-color: #4682B4;
+}
+
+.father{
+  margin: 200px;
+  border: 5px solid gray;
+background-color: #4682B4;
+padding:50px;
+}
+
+.float-parent-element {
+    width: 50%;
+}
+.float-child-element {
+    float: left;
+    width: 50%;
+}
+
+.register-flat{
+  color: white;
+  background-color: blue;
+  font-size: 20px;
+  margin-left: 220px;
+}
+
+.submit-flat{
+  color: white;
+  background-color: orange;
+  margin-left: 250px;
+}
+
+.register-round{
+
+  color:white;
+  background-color: green;
+  font-size: 20px;
+  margin-left: 220px;
+  border-radius: 45%;
+  padding: 10px;
+}
+
+.submit-round{
+  color: white;
+  background-color: #DC143C;
+  margin-left: 250px;
+  border-radius: 45%;
+  padding: 10px;
+}
+
+.register-flat-ghost{
+  color: white;
+  background-color:(0,0,0,0,0);
+  font-size: 20px;
+  margin-left: 220px;
+}
+
+.submit-flat-ghost{
+  color: white;
+  background-color: (0,0,0,0,0);
+  margin-left: 250px;
+}
+
+.flat-register-ghost{
+  background-color: (0,0,0,0,0);
+}
+
+.register-round-ghost{
+    border-color: (0,0,0,0);
+  color:white;
+
+  font-size: 20px;
+  margin-left: 220px;
+  border-radius: 45%;
+  padding: 10px;
+
+}
+
+.submit-round-ghost{
+  color: white;
+
+  margin-left: 250px;
+  border-radius: 45%;
+  padding: 10px;
+    border-color: (0,0,0,0);
+
+}
+
+
+
+h2{
+  margin-left: 350px;
+
+}
